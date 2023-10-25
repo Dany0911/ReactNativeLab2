@@ -1,1 +1,1 @@
-Helsinki Restaurant app in Expo React Native that uses Yelp API and show a list of restaurants based on different criteria (Pizza, Burger, Dessert etc), show the rating and average price and some pictures.
+Daniele Mercuri APP. Helsinki Restaurant app in Expo React Native that uses Yelp API and show a list of restaurants based on different criteria (Pizza, Burger, Dessert etc), show the rating and average price and some pictures.
